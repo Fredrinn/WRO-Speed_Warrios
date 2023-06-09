@@ -1,0 +1,75 @@
+int TRIG = 2;		
+
+#define ECO1 A1
+#define ECO2 A0
+#define ECO3 A2
+#define ECO4 A3
+
+int DURACION;
+
+int DISTANCIAY1;
+int DISTANCIAX1;
+int DISTANCIAY2;
+int DISTANCIAX2;
+
+int inicio = 0;
+void setup()
+{
+  pinMode(TRIG, OUTPUT); 	
+  pinMode(ECO1, INPUT);	
+  pinMode(ECO2, INPUT);
+  pinMode(ECO3, INPUT);
+  pinMode(ECO4, INPUT);
+  Serial.begin(9600);  		
+
+}
+
+void loop(){
+  
+  while (inicio == 0){
+  delay (200);
+  digitalWrite(TRIG, HIGH); 	
+  delay(1);				
+  digitalWrite(TRIG, LOW);		
+  
+  DURACION = pulseIn(ECO1, HIGH);	
+  					
+  DISTANCIAY1 = DURACION / 58.2;	
+  Serial.println(DISTANCIAY1);
+  delay(50);	
+    
+//-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+  digitalWrite(TRIG, HIGH); 	
+  delay(1);				
+  digitalWrite(TRIG, LOW);		
+  
+  DURACION = pulseIn(ECO2, HIGH);	
+  					
+  DISTANCIAX1 = DURACION / 58.2;	
+  Serial.println(DISTANCIAX1);
+  delay(50);
+    
+//-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+  digitalWrite(TRIG, HIGH); 	
+  delay(1);				
+  digitalWrite(TRIG, LOW);		
+  
+  DURACION = pulseIn(ECO3, HIGH);	
+  					
+  DISTANCIAY2 = DURACION / 58.2;	
+  Serial.println(DISTANCIAY2);
+  delay(50);
+    
+//-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+  digitalWrite(TRIG, HIGH); 	
+  delay(1);				
+  digitalWrite(TRIG, LOW);		
+  
+  DURACION = pulseIn(ECO4, HIGH);	
+  					
+  DISTANCIAX2 = DURACION / 58.2;	
+  Serial.println(DISTANCIAX2);
+  delay(50);
+  inicio = 1;
+  } 
+}
