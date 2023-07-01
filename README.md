@@ -8,27 +8,27 @@ We are a member of the Speed ​​Warriors team and part of the engineering tea
 The Speed Warriors team has introduced an innovative robotic solution called EcoSight, which is based on a robot that utilizes various sensors to navigate and make decisions in the face of obstacles on the game track. This revolutionary approach relies on two key concepts: "Echolocation" and "Computer Vision," which are implemented through a combination of ultrasonic sensors and the OV7670 camera. In this way, the robot can obtain accurate information about its surroundings and effectively and strategically use it during the competition.
 
 
-##Content
+## Content
 
-*Team Photo
+* Team Photo
 In this section, we present an official photo of our talented Speed Warriors team. This image captures the spirit of collaboration and dedication that has led us to develop a high-performance autonomous vehicle for the WRO Future Engineers competition. Get to know the faces behind the project and discover the collective effort we have invested to achieve our goals.
 
-*Diagrams
+* Diagrams
 Here we present 4 comprehensive diagrams that showcase the internal workings and structure of our autonomous robot. These diagrams will provide you with a clear understanding of how we have designed and assembled each essential part of our vehicle, including the sensor system, control unit, actuators, and overall component arrangement.
 
-*Robot Photos
-Description: In this section, you will find a variety of 6 detailed photos of our impressive robot. You will be able to closely explore its innovative design, components, and standout features. These images will allow you to appreciate the quality and precision with which we have built our autonomous vehicle for the WRO Future Engineers competition.
+* Robot Photos
+In this section, you will find a variety of 6 detailed photos of our impressive robot. You will be able to closely explore its innovative design, components, and standout features. These images will allow you to appreciate the quality and precision with which we have built our autonomous vehicle for the WRO Future Engineers competition.
 
-*Programming
+* Programming
 In this section, you will find a wide range of programs and codes that we have developed for the operation of our autonomous robot. These programming files will provide you with detailed information on how we have programmed the navigation algorithms, obstacle detection, and decision-making capabilities of our vehicle. Additionally, you will find a special programming specifically designed for the WRO Future Engineers competition called "EcoSight - Program".
 
-*3D Model
+* 3D Model
 Here you can explore our 3D model of our autonomous vehicle in all its glory. This file will allow you to visualize our robot from different angles and perspectives, giving you a clear idea of its aesthetic design and functionality. You will be able to examine every detail and appreciate how we have optimized space and efficiency in our model.
 
-*3D Images
+* 3D Images
 Here you will find 6 impressive 3D images of our autonomous vehicle. These images will allow you to explore our robot from different angles and perspectives, appreciating how we have designed each component to optimize performance and efficiency. Admire the sophistication and elegance of our autonomous vehicle through these captivating 3D images.
 
-*Robot Video
+* Robot Video
 In this section, we provide a link to a video where you can witness our robot in action. 
 
 
