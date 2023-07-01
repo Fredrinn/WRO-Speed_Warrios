@@ -16,7 +16,7 @@ In this section, we present an official photo of our talented Speed Warriors tea
 * Diagrams
 Here we present 4 comprehensive diagrams that showcase the internal workings and structure of our autonomous robot. These diagrams will provide you with a clear understanding of how we have designed and assembled each essential part of our vehicle, including the sensor system, control unit, actuators, and overall component arrangement.
 
-* Robot Photos
+* ´Robot Photos´
 In this section, you will find a variety of 6 detailed photos of our impressive robot. You will be able to closely explore its innovative design, components, and standout features. These images will allow you to appreciate the quality and precision with which we have built our autonomous vehicle for the WRO Future Engineers competition.
 
 * Programming
