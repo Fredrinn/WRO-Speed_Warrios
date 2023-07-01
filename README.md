@@ -3,8 +3,15 @@
 Speed Warriors
 Robot: EcoSight
 Robotic Solution
+
+We are a member of the Speed ​​Warriors team and part of the engineering team that has developed an "EcoSight" autonomous vehicle model to compete in the exciting 2023 WRO Future Engineers season. This repository is home to a wide range of engineering resources related to our autonomous vehicle, designed to meet challenging tests of speed and skill.
 The Speed Warriors team has introduced an innovative robotic solution called EcoSight, which is based on a robot that utilizes various sensors to navigate and make decisions in the face of obstacles on the game track. This revolutionary approach relies on two key concepts: "Echolocation" and "Computer Vision," which are implemented through a combination of ultrasonic sensors and the OV7670 camera. In this way, the robot can obtain accurate information about its surroundings and effectively and strategically use it during the competition.
 
+
+##Content
+
+
+## Introduction
 To optimize the design, the solution was modeled in 3D and utilized a minimal number of components, allowing for space-saving. Additionally, simulations were conducted in virtual simulators like Tinkercad or Wokwi to validate its functionality. Great effort was dedicated to optimizing the size of the robot while also aiming to reduce the consumption of printing materials.
 
 The components used in our prototype are as follows:
