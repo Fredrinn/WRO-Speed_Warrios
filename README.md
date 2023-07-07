@@ -22,7 +22,7 @@ In this section, you will find a variety of 6 detailed photos of our impressive 
 * `Programming`
 In this section, you will find a wide range of programs and codes that we have developed for the operation of our autonomous robot. These programming files will provide you with detailed information on how we have programmed the navigation algorithms, obstacle detection, and decision-making capabilities of our vehicle. Additionally, you will find a special programming specifically designed for the WRO Future Engineers competition called "EcoSight - Program".
 
-* `3D Model`
+* `STL files`
 In the 3D images of our robot, you can see different supports designed for specific parts, such as housings for sensors and a repository for the L298N controller. These mounts ensure a solid and secure base for each component, protecting the sensors and making it easy to connect the controller.
 
 * `3D Images`
